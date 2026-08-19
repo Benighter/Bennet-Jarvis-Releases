@@ -1,8 +1,8 @@
 {
   "packageName": "com.benighter.jarvis",
-  "versionCode": 6,
-  "versionName": "1.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/Benighter/Bennet-Jarvis-Releases/main/jarvis-1.1.0.apk",
-  "sha256": "1E5079F8F84AEC893FFCA5767F76EAA859FD9ABBDF93F9FFDB099661976A608C",
-  "notes": "Adds encrypted phone-local text memory, automatic conversation capture, keep-this-memory pinning, and wake-word reconnect from standby. Android requires approval before installing updates and a tap after reboot to restore microphone standby."
+  "versionCode": 7,
+  "versionName": "1.1.1",
+  "apkUrl": "https://raw.githubusercontent.com/Benighter/Bennet-Jarvis-Releases/main/jarvis-1.1.1.apk",
+  "sha256": "42E852D30EAD82C8281C78ADB09E0D96FFF8DB3653B2830C1A895936C81232E5",
+  "notes": "Fixes Android 16 memory encryption, applies memory through a valid Realtime session update, refreshes the WebView release cache, and recognizes keep-it-in-memory and save-it-in-memory commands."
 }
