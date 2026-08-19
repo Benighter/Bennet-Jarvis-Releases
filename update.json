@@ -1,0 +1,8 @@
+{
+  "packageName": "com.benighter.jarvis",
+  "versionCode": 3,
+  "versionName": "0.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/Benighter/Bennet-Jarvis-Releases/main/jarvis-0.2.0.apk",
+  "sha256": "2ED254F24E231CB74C4061B6BCC500CF5108F32A30136AC0E3327587A83B7103",
+  "notes": "Adds the transition updater and prepares the realtime voice upgrade. Android will ask for approval before installing."
+}
