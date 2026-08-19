@@ -4,12 +4,14 @@ Public release artifacts for the private [Bennet-Jarvis](https://github.com/Beni
 
 This repository contains only signed APKs, update manifests, checksums, and release notes.
 
-## Current release: 1.0.0
+## Current release: 1.1.0
 
 - OpenAI Realtime voice over a persistent WebRTC session.
 - Voice selector with Marin as the default.
+- Encrypted phone-local text memory for recent conversations and pinned memories.
+- Automatic memory capture plus “keep this memory” and “remember…” commands.
+- Wake-word reconnect from standby without reopening the app or tapping Connect Live Voice.
 - Persistent foreground notification so the running JARVIS state is visible.
-- Wake-word standby after the app UI is closed, with stop/disarm returning to standby.
 - Boot restore notification after a phone restart.
 - The in-app updater checks this manifest and asks Android for approval before installing updates.
 

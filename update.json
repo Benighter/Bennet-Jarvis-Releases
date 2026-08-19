@@ -1,8 +1,8 @@
 {
   "packageName": "com.benighter.jarvis",
-  "versionCode": 5,
-  "versionName": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/Benighter/Bennet-Jarvis-Releases/main/jarvis-1.0.0.apk",
-  "sha256": "091785A14A7570EDEE7DE9A142A33A0FFAED14450D32AA6F2A8ABA67FE64A8D0",
-  "notes": "Adds a persistent live-voice notification, wake-word standby after normal app closure, stop-to-idle handling, and a boot restore notification. Android requires approval before installing updates and a tap after reboot to restore microphone standby."
+  "versionCode": 6,
+  "versionName": "1.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/Benighter/Bennet-Jarvis-Releases/main/jarvis-1.1.0.apk",
+  "sha256": "1E5079F8F84AEC893FFCA5767F76EAA859FD9ABBDF93F9FFDB099661976A608C",
+  "notes": "Adds encrypted phone-local text memory, automatic conversation capture, keep-this-memory pinning, and wake-word reconnect from standby. Android requires approval before installing updates and a tap after reboot to restore microphone standby."
 }
