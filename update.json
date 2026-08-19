@@ -1,8 +1,8 @@
 {
   "packageName": "com.benighter.jarvis",
-  "versionCode": 4,
-  "versionName": "0.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/Benighter/Bennet-Jarvis-Releases/main/jarvis-0.3.0.apk",
-  "sha256": "B7E21E5FE9585427E8D5F370777EA537B3973027C8BCD08AB3910F0B6CB477D0",
-  "notes": "Adds OpenAI Realtime voice over WebRTC, a selectable voice list, and the Android microphone routing fix. Android will ask for approval before installing."
+  "versionCode": 5,
+  "versionName": "1.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/Benighter/Bennet-Jarvis-Releases/main/jarvis-1.0.0.apk",
+  "sha256": "091785A14A7570EDEE7DE9A142A33A0FFAED14450D32AA6F2A8ABA67FE64A8D0",
+  "notes": "Adds a persistent live-voice notification, wake-word standby after normal app closure, stop-to-idle handling, and a boot restore notification. Android requires approval before installing updates and a tap after reboot to restore microphone standby."
 }
